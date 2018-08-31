@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>NIET</title>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4" crossorigin="anonymous">
+
+    <style type="text/css">
+
+        header{
+        background-size: cover;
+            background-position: center;
+            height: 100vh
+        }
+     
+        h2{
+            color: black;
+        }
+        p{
+            text-align: center;
+            font-size: 25px;
+        }
+        .para1{
+            background-color: orange;
+            margin-left: 120px;
+            margin-right: 120px;
+            margin-bottom: 45px;
+            margin-top: 70px;
+            border-radius :8px 8px 8px 8px;
+            padding-left: 80px;
+            padding-top: 40px;
+            padding-bottom: 40px;
+            border-style: solid;
+            border-color: rgba(217, 24, 24, 0.74);
+        }
+        .para2{
+            background-color: skyblue;
+            margin-left: 120px;
+            margin-right: 120px;
+            margin-bottom: 45px;
+            border-radius :8px 8px 8px 8px;
+            padding-left: 80px;
+            padding-top: 40px;
+            padding-bottom: 40px;
+            border-style: solid;
+            border-color: rgba(14, 25, 111, 0.87);
+        }
+        .para3{
+            background-color: greenyellow;
+            margin-left: 120px;
+            margin-right: 120px;
+            margin-bottom: 100px;
+            border-radius :8px 8px 8px 8px;
+            padding-left: 80px;
+            padding-top: 40px;
+            padding-bottom: 40px;
+            border-style: solid;
+            border-color: rgb(24, 217, 76);
+        }
+#rside
+{
+width:100px;
+float:right;
+background-color:lightgray;
+}
+#lside
+{
+width:100px;
+float:left;
+background-color:lightgray;
+}       
+        
+    </style>
+</head>
+
+    
+<body>
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="#"><h2>NIET<i>flash</i></h2></a>
+    </div>
+
+    <ul class="nav navbar-nav navbar-right">
+<nav class="navbar navbar-dark bg-black">
+  <form class="form-inline">
+    <button class="btn btn-danger navbar-btn">MANAGE</button>
+  </form>
+</nav>
+    </ul>
+  </div>
+</nav>
+    <div class="p-3 mb-2 bg-light text-dark"><p>Upcoming/Important events directly from the management</p></div>
+    <div class="para1"><b>Date:</b><br>August 17,2018<br><br><br><b>Type</b><br>Holiday
+    </div>
+    <div class="para2"><b>Date:</b><br>August 17,2018<br><br><br><b>Type</b><br>Holiday
+    </div>
+    <div class="para3"><b>Date:</b><br>August 17,2018<br><br><br><b>Type</b><br>Holiday
+    </div> 
+      <div id="rside">
+    </div>
+     <div id="lside">
+   </div>
+        
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm" crossorigin="anonymous"></script>
+        
+</body>
+</html>
